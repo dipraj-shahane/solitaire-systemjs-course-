@@ -2,7 +2,7 @@ stage 'CI'
 node {
 
     checkout scm
-
+	// Committed below command
     //git branch: 'jenkins2-course', 
     //    url: 'https://github.com/g0t4/solitaire-systemjs-course'
 
